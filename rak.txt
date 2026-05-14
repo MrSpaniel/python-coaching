@@ -1,0 +1,3 @@
+Honnan tudjam;2000;100
+Miert tudjam;2001;101
+Faszom;2002;999
